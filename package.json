@@ -1,0 +1,7 @@
+{
+  "name": "express-middleware-positioner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alexis Tyler <xo@wvvw.me> (https://wvvw.me/)",
+  "license": "MIT"
+}
